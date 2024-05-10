@@ -31,8 +31,7 @@ Drag Animator Controller to the GameObject in the Inspector.
 ### DEVELOPED BY : Yogabharathi S
 ### REG NO : 212222230179
 
-PlayerController:
-
+##### PlayerController:
 
 ```c#
 using System.Collections;
